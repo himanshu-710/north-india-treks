@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://north-india-treks-8cl96pctc-himanshu-710s-projects.vercel.app/sitemap.xml
